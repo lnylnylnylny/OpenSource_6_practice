@@ -6,7 +6,7 @@
 |팀장|팀원|팀원|팀원|
 |[lnylnylnylny](https://github.com/lnylnylnylny)|[ij5](https://github.com/ij5)|[mathlike1105](https://github.com/mathlike1105)|[taehatae](https://github.com/taehatae)|
 
-
+03 황태하 대진대의 얼굴
 우리 조 화이팅
 
 **오목판**
@@ -17,7 +17,7 @@
 |   |   |   |   |   | o |   |   |   |   |
 |   |   |   |   | X | o | X |   |   |   |
 |   |   |   |   |   | X | X |   |   |   |
-|   |   |   |   |   |   | o |   |   |   |
+|   |   |   |   | o |   | o |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
