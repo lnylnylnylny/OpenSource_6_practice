@@ -17,3 +17,8 @@
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
+
+사용 스택
+frontend : React
+backend : flask
+AI : Python
